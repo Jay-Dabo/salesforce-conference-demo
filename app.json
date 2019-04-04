@@ -1,7 +1,7 @@
 {
-  "name": "Salesforce Conference App",
-  "description": "Conference Management App built on Salesforce1 Platform",
+  "name": "ESOCS Conference App",
+  "description": "Conference Management App built the ESOCS Church",
   "env": {
-    "APP_ID": ""
+    "APP_ID": "esocs-conf-app-777"
   }
 }
